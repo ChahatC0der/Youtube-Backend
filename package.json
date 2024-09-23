@@ -1,0 +1,21 @@
+{
+  "name": "youtube_backend",
+  "version": "1.0.0",
+  "description": "We will design an advanced and professional backend for applications like youtube and more",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "backend",
+    "chai",
+    "youtube"
+  ],
+  "author": "Chahat",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  }
+}
